@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-3RBPSDL</Machine>
+    <WindowsUser>rhth5</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|x64</SolutionConfiguration>
+    <PackageArchitecture>x64</PackageArchitecture>
+    <PackageIdentityName>c491bfe5-069b-4277-b3cd-680167088384</PackageIdentityName>
+    <PackageIdentityPublisher>CN=rhth5</PackageIdentityPublisher>
+    <IntermediateOutputPath>c:\users\rhth5\onedrive\문서\visual studio 2015\Projects\Stopwatch\Stopwatch\obj\x64\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <RegisteredManifestChecksum>DD9A50CFC0B003C6C04CB4AA416ABBD7A370831CE1836E015F834E52B5D8DC77</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>c491bfe5-069b-4277-b3cd-680167088384_1.0.0.0_x64__6jmcyqrwfxyf2</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>c491bfe5-069b-4277-b3cd-680167088384_6jmcyqrwfxyf2!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>c491bfe5-069b-4277-b3cd-680167088384</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=rhth5</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\rhth5\onedrive\문서\visual studio 2015\Projects\Stopwatch\Stopwatch\bin\x64\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-11-12T14:38:35.725</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\rhth5\onedrive\문서\visual studio 2015\Projects\Stopwatch\Stopwatch\bin\x64\Debug\Stopwatch.exe">
+      <PackagePath>Stopwatch.exe</PackagePath>
+      <Modified>2016-11-13T12:47:04.049</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\rhth5\onedrive\문서\visual studio 2015\Projects\Stopwatch\Stopwatch\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T13:05:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\rhth5\onedrive\문서\visual studio 2015\Projects\Stopwatch\Stopwatch\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T13:05:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\rhth5\onedrive\문서\visual studio 2015\Projects\Stopwatch\Stopwatch\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T13:05:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\rhth5\onedrive\문서\visual studio 2015\Projects\Stopwatch\Stopwatch\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T13:05:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\rhth5\onedrive\문서\visual studio 2015\Projects\Stopwatch\Stopwatch\bin\x64\Debug\Stopwatch.xr.xml">
+      <PackagePath>Stopwatch.xr.xml</PackagePath>
+      <Modified>2016-11-12T15:03:22.929</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\rhth5\onedrive\문서\visual studio 2015\Projects\Stopwatch\Stopwatch\bin\x64\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2016-11-12T14:38:34.677</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\rhth5\onedrive\문서\visual studio 2015\Projects\Stopwatch\Stopwatch\bin\x64\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2016-11-12T15:03:22.990</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\rhth5\onedrive\문서\visual studio 2015\Projects\Stopwatch\Stopwatch\bin\x64\Debug\View\BasicStopwatch.xbf">
+      <PackagePath>View\BasicStopwatch.xbf</PackagePath>
+      <Modified>2016-11-12T15:04:44.280</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\rhth5\onedrive\문서\visual studio 2015\Projects\Stopwatch\Stopwatch\bin\x64\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-11-12T14:38:35.481</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
